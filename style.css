@@ -33,7 +33,7 @@
 }
 
 .nav-pie{
-    background-color: rgba(7, 5, 151, 0.719);
+    background: linear-gradient(#1C3643, #1E5372) ;
 }
 
 .nav-pie ul li{
