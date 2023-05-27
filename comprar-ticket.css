@@ -1,0 +1,21 @@
+form{
+margin-right: 14%;
+margin-left: 14% !important;
+}
+
+.nav-pie{
+    background: linear-gradient(#1C3643, #1E5372) ;
+}
+
+.nav-pie ul li{
+    font-size: 15px;
+}
+
+.btn {
+    background: #97c93e;
+    color: white;
+  }
+  .btn:hover {
+    background: #71972e;
+    color: white;
+  }
