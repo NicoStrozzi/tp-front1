@@ -1,5 +1,4 @@
 function calcular(){ 
- //event.preventDefault();
   
   const nombre=document.getElementById('nombre').value;
      
